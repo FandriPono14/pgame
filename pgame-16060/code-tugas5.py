@@ -49,6 +49,40 @@ ni string
 print(myvar[:1])
 i
 
+Latihan tipe data (Lanjutan 2)
+
+#List
+myvar=[100, 200, 300, 400] # numerik
+print(myvar)
+[100, 200, 300, 400]
+print(myvar[0])
+100
+print(myvar[1])
+200
+print(myvar[3])
+400
+
+myvar=["satu","dua","tiga","empat"] #string
+print(myvar)
+['satu', 'dua', 'tiga', 'empat']
+print(myvar[0])
+satu
+print(myvar[1])
+dua
+print(myvar[3])
+empat
+
+myvar=[1, "dua", 3, "empat"] # numerik dan string
+print(myvar)
+[1, 'dua', 3, 'empat']
+print(myvar[0])
+1
+print(myvar[1])
+dua
+print(myvar[3])
+empat
+
+
 
 
 
