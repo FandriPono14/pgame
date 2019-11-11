@@ -18,3 +18,39 @@ print(myvar)
 myvar =None
 print(myvar)
 None
+
+Latihan tipe data (Lanjutan 2)
+#Hexadecimal
+myvar=0xbb
+print(myvar)
+187
+
+#Float
+myvar= 20.43
+print(myvar)
+20.43
+
+#integer
+myvar =33
+print(myvar+8)
+41
+
+#String
+myvar ="ini string"
+print(myvar)
+ini string
+print(myvar[0])
+print(myvar[1])
+n
+print(myvar[-1])
+g
+print(myvar[-1:])
+g
+print(myvar[1:])
+ni string
+print(myvar[:1])
+i
+
+
+
+
