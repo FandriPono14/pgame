@@ -82,6 +82,43 @@ dua
 print(myvar[3])
 empat
 
+Code 4.1 – Numerik (interger, fload)
+
+# Simpan dengan nama : code41.py
+# Pemrograman Game Praktikum 4
+# latihan code 4.1 : Numerik (integer dan float) # buat variabel dan beri nilai
+a = 4
+b = 5
+c = 6.3
+# cetak variabel ke layar
+print(a)
+4
+print(b)
+5
+print(c)
+6.3
+# cetak '*' sebanyak 50 kali
+print('*'*50)
+**************************************************
+# cetak variabel dengan keterangan ke layar print("Variable A :", a )
+print("Variable B : %d " % b )
+Variable B : 5
+print("Variable C : %f " % c )
+Variable C : 6.300000
+print('*'*50)
+**************************************************
+# cetak variabel dengan keterangan ke laya
+# operasi + , * , / dan cetak ke layar
+print("Variable A+B : ", a+b )
+Variable A+B :  9
+print("Variable A*B : ", a*b )
+Variable A*B :  20
+print("Variable C/3 : ", c/3 )
+Variable C/3 :  2.1
+
+Code 4.2 – String 
+
+
 
 
 
