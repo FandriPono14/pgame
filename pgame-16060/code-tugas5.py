@@ -1,4 +1,4 @@
-Latihan ke1 Tipe data
+Latihan Tipe data
 #Boolean
 myvar=True          # Tipe data boolean
 print(myvar)        # Cetak Data
@@ -19,7 +19,7 @@ myvar =None
 print(myvar)
 None
 
-Latihan tipe data (Lanjutan 2)
+Latihan tipe data (Lanjutan 1)
 #Hexadecimal
 myvar=0xbb
 print(myvar)
@@ -43,8 +43,6 @@ print(myvar[0])
 print(myvar[1])
 n
 print(myvar[-1])
-g
-print(myvar[-1:])
 g
 print(myvar[1:])
 ni string
