@@ -1,4 +1,4 @@
-Latihan ke 8 
+Latihan ke1 Tipe data
 #Boolean
 myvar=True          # Tipe data boolean
 print(myvar)        # Cetak Data
