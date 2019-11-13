@@ -164,7 +164,7 @@ print(kampus)
 UMMU
 print(lokasi)
 Ternate
-# Cetak '-' sebanyak 35 kali
+# Cetak '-' sebanyak 40 kali
 print( '*' * 40 )
 ****************************************
 # Cetak nilai variabel ke layar dengan keterangan
@@ -180,7 +180,7 @@ print("Lokasi : %s " % lokasi)
 Lokasi : Ternate
 print("Tahun  : %d " % tahun)
 Tahun  : 2019
-# Cetak '-' sebanyak 35 kali
+# Cetak '-' sebanyak 40 kali
 ... print( '*' * 40 )
 ****************************************
 # Cetak variabel prodi dan kampus
