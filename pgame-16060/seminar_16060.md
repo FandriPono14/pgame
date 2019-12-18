@@ -89,8 +89,6 @@ Salah satu yang menjadi permasalahan kita adalah kemudahan kita dalam mebiarkan 
 
 Setiap hari anda ingin memposting data, setiap hari anda ingin mengupload konten, dimanapun itu pasti tetap ada didunia digital, kecuali servernya dimatikan.
 
-Mahsiswa sekarang tidak harus dipengaruhi dengan gaya belajar lama, tetapi diharuskan dengan gaya hidup yang mengikuti dan menyesuaikan dari waktu ke waktu. Contohnya seperti lagu lama yaitu bangun tidur ku terus mandi, jangan lupa mnggosok gigi? dilihat dengan sekarang sudah ada perbedaan yaitu bangun pagi kucari handphone... hehehehe
-
 Mahsiswa sekarang tidak harus dipengaruhi dengan gaya belajar lama, tetapi diharuskan dengan gaya hidup yang mengikuti dan menyesuaikan dari waktu ke waktu. Contohnya seperti lagu lama yaitu bangun tidur ku terus mandi, jangan lupa mnggosok gigi dilihat dengan sekarang sudah ada perbedaan yaitu bangun pagi kucari handphone
 Setiap hari anda ingin memposting data, setiap hari anda ingin mengupload konten, dimanapun itu pasti tetap ada didunia digital, kecuali servernya dimatikan.
 
